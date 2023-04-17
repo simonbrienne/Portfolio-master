@@ -3,8 +3,6 @@
   <a href="https://nomis-it.com/" target="_blank">nomis-it.com</a>
 </h2>
 
-<br/>
-
 ## Credits
 
 ⭐️ [soumyajit4419](https://github.com/soumyajit4419/Portfolio)
